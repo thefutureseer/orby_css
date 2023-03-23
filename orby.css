@@ -2,12 +2,16 @@
   --FClr: rgba(211, 190, 3, 0.361);
 }
 
+body {
+  background-color: gray;
+}
+
 .container{
  position: absolute;
 width: 300px;
 height: 20px;
 /* margin-top: 10em; */
-/* border: 3px dotted blue; */
+border: 3px dotted blue;
 /* top: 3; */
 /* bottom: 30; */
 left: 0;
